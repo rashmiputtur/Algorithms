@@ -10,4 +10,6 @@ Given a dictionary and an input string, find all dictionary words that are subst
 Word Boggle:                                                                                                                     
 Given a matrix of letters and a dictionary, find all possible valid words from the matrix
 
+GitCommitMsgStats: 
 
+Read the public github dataset from Google BigQuery to compute mean and median of all git commit messages over a time period. The program is written to treat the message lengths as a stream of integers where the median and mean are computes for each message read from BigQuery.  
